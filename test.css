@@ -1,0 +1,23 @@
+h1 {
+    color: purple;
+  }
+
+h3 {
+    color: white;
+}
+
+.article {
+    background-color: #8977ad;
+}
+
+.article2 {
+    margin-left : 100px ;
+}
+
+.article3 {
+    margin-left : 200px;
+}
+
+p {
+    color: white;
+}
